@@ -20,7 +20,7 @@ import static org.javers.common.validation.Validate.*;
  * Change represents an <b>atomic</b> difference between two objects.
  * <br><br>
  *
- * There are several types fo change:
+ * There are several types of change:
  * {@link ValueChange}, {@link ReferenceChange}, {@link ListChange}, {@link NewObject}, and so on.
  * See the inheritance hierarchy for the complete list.
  * <br><br>
